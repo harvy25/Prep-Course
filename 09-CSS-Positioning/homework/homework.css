@@ -47,12 +47,10 @@ text-align: center;
     display: flex;
     justify-content: space-around;
     align-items: center;
-
 }
 
 
 /* Ejercicio 6. */
 #ejercicioCinco{
     flex-direction: row-reverse;
-
 }
